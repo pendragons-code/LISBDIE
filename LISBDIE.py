@@ -16,7 +16,7 @@ print("""
 .-.   .-..---..--..--. .-..---.
 | |__ | | \ \ |-< | \ \| || |- 
 `----'`-'`---'`--'`-'-'`-'`---' """)
-
+print("Version 1")
 for i in range(0,int(n)):
     time.sleep(delay)
     pyautogui.typewrite(msg)
