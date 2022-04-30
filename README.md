@@ -30,4 +30,4 @@ If you have no idea how that should be done, you just need to add an `alias LISB
  # Brazen and shameless ADs
  [Instagram](https://instagram.com/pendragonscode)    
  [Site](https://code.senghong.xyz)    
- [Patreon](https://www.patreon.com/Pendragonscode)(not a lot of content tho)    
+ [Patreon](https://www.patreon.com/Pendragonscode) (not a lot of content tho)    
