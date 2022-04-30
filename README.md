@@ -21,6 +21,5 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 # Needed Resources:
   [pyautogui](https://pyautogui.readthedocs.io/en/latest/quickstart.html)  
   [python](https://www.python.org/)   
-  [scrot](https://en.wikipedia.org/wiki/Scrot)
-  
-      It should also be noted I do not own any of the items above.
+  [scrot](https://en.wikipedia.org/wiki/Scrot)    
+  It should also be noted I do not own any of the items above.
