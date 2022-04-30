@@ -8,11 +8,11 @@
 If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIE.py'`
 
 # Details 🪶:
-  LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You have to type the entire thing out before the code registers the message to be spammed. 
+  LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You have to type the entire thing out before the code registers the message to be spammed. 🦹‍♂️
     
-   LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl c` + `ctrl v` and entering it repeatedly after.
+   LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl c` + `ctrl v` and entering it repeatedly after. 💼
    
-   As of now, LISBDIEv2 does not inhereit the features that LISBDIEv1 has, I will merge them together 1 day so YAY!
+   As of now, LISBDIEv2 does not inhereit the features that LISBDIEv1 has, I will merge them together 1 day so YAY! 👊
   
   
    
@@ -30,4 +30,4 @@ If you have no idea how that should be done, you just need to add an `alias LISB
  # Brazen and shameless ADs 🤷‍♂‍
  [Instagram](https://instagram.com/pendragonscode)    
  [Site](https://code.senghong.xyz)    
- [Patreon](https://www.patreon.com/Pendragonscode) (not a lot of content tho)    
+ [Patreon](https://www.patreon.com/Pendragonscode) (not a lot of content tho 😥)    
