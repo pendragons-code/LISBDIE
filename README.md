@@ -1,11 +1,11 @@
 # LISBDIE 💪:
   A spam tool made in python using different methods for spamming.  
-  To run: `python3 LISBDIE.py`  
+  To run: `python3 LISBDIEv2.py`  
  
   
   For power users 👉 👉:  
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIE.py'`
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv2.py'`
 
 # Details 🪶:
   LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You have to type the entire thing out before the code registers the message to be spammed. 🦹‍♂️
