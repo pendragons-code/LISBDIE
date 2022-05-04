@@ -13,7 +13,9 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl c` + `ctrl v` and entering it repeatedly after. 💼
    
    Update: as of 5th may 2022,I found time at 00:27 to add v1's features into v2. Hooray! 🤟    
-      Branches: The linux branch will soon include an automated script to install all the needed dependencies. 🤟
+      Branches: The linux branch will soon include an automated script to install all the needed dependencies. 🤟   
+      
+   Next feature: I will add a feature where it will spam the contents of a txt file with configurations as well.
   
   
    
