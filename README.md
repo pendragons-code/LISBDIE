@@ -12,7 +12,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
    LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl c` + `ctrl v` and entering it repeatedly after. 💼
    
-   As of now, LISBDIEv2 does not inhereit the features that LISBDIEv1 has, I will merge them together 1 day so YAY! 👊
+   Update: as of 5th may 2022,I found time at 00:27 to add v1's features into v2. Hooray! 🤟
   
   
    
