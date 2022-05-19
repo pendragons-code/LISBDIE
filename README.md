@@ -8,7 +8,7 @@
 If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv3.py'`     
     
  
- I am aware that some people are interested in the benchmarks, so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought. Anyhow the benchmarks are below!
+ I am aware that some people are interested in the benchmarks(😉), so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought. Anyhow the benchmarks are below!😉
 
 # Details 🪶:
   LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You need to manually type the objects out (in terms of code), and in my tests it seems that the clipboard did much better in spamming speed (delay 0). 🦹‍♂️
@@ -31,10 +31,10 @@ If you have no idea how that should be done, you just need to add an `alias LISB
   
    
    # Disclaimer 🤟:
-   This tool is indeed something I created after being bored since my life suddenly became a multi-headed dick hydra that is about to rip my flesh and bones apart 😀. That said, I do not encourage that you create chaos of any form to instill harm within in your social circle. Also if you are curious why the code is so badly written and why it kinda looks like ramen, that's because I was at a coffeeshop near school when I made this and uploaded it here. I was not using an IDE natively on my phone, rather I was using a txt file and then converting it to a python file to make this thing. So yes, it works, but not optimized yet, when I finally have some free time, I may consider optimizing this tool. Do tell me if there are any errors and if you would like me to correct such issues right away if you can. Have a nice day! :P
+   This tool is indeed something I created after being bored since my life suddenly became a multi-headed dick hydra that is about to rip my flesh and bones apart 😀. That said, I do not encourage that you create chaos of any form to instill harm within in your social circle. Also if you are curious why the code is so badly written and why it kinda looks like ramen, that's because I was at a coffeeshop near school when I made this and uploaded it here. I was not using an IDE natively on my phone, rather I was using a txt file and then converting it to a python file to make this thing. So yes, it works, but not optimized yet (😭 I know!) , when I finally have some free time, I may consider optimizing this tool. Do tell me if there are any errors and if you would like me to correct such issues right away if you can. Have a nice day! :P 🤛
 
 
-# Installation:
+# Installation 👾:
   Ubuntu/Debian (updates repos and upgrades at the same time):
   ```
   sudo apt update && sudo apt upgrade -y && sudo apt install scrot
@@ -62,16 +62,18 @@ If you have no idea how that should be done, you just need to add an `alias LISB
  
  
  # Benchmarks 🎛️:
-```Test components:
+```
+Test components:
 Sentence to be spammed: "The quick brown fox jumps over the lazy dog."
 Number of repetitions: 5000
 Delay between each message: 0
 ```
-CPU usage includes the other tasks as what i am also looking for is the total usage, also i could not find the instance as i had to run it using the IDE and not natively.
+CPU usage includes the other tasks as what I am also looking for is the total usage, also I could not find the instance/task as I had to run it using the IDE and not natively 😭 (remember this is chromebook and it kinda appears in a weird manner, this shit was also lagging really hard and it makes it really hard to find it. Worse, this replicates keystrokes. So I cannot scroll up and down. Damn these tiny screens. 😭).
 
 
 
-```keystrokes replication:
+```
+keystrokes replication:
 Time to complete 5000 sets: 43 seconds
 Average CPU and RAM usage: 76% and 400MiB
 Peak CPU: 91%
@@ -90,4 +92,4 @@ Peak CPU: 100%
 Peak RAM: 1.2GiB 
 ```
 
-  Will consider optimising if running the same test on another PC gets results that shows evidence of high usage, but to be fair tho, it is a lousy chromebook so lol! Also I am unable to test this on windows as i do not have a PC that can run win 11 and windows in general is completely not worth my time.
+  Will consider optimising if running the same test on another PC gets results that shows evidence of high usage, but to be fair tho, it is a lousy chromebook so lol! Also I am unable to test this on windows as i do not have a PC that can run win 11 and windows in general is completely not worth my time. 🤙
