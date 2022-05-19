@@ -5,8 +5,10 @@
   
   For power users 👉 👉:  
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv3.py'`   
-    I am aware that some people are interested in the benchmarks, so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought.
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv3.py'`     
+    
+ 
+ I am aware that some people are interested in the benchmarks, so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought. Anyhow the benchmarks are below!
 
 # Details 🪶:
   LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You need to manually type the objects out (in terms of code), and in my tests it seems that the clipboard did much better in spamming speed (delay 0). 🦹‍♂️
@@ -54,3 +56,36 @@ If you have no idea how that should be done, you just need to add an `alias LISB
  [Instagram](https://instagram.com/pendragonscode)    
  [Site](https://code.senghong.xyz)    
  [Patreon](https://www.patreon.com/Pendragonscode) (not a lot of content tho 😥)    
+ 
+ 
+ 
+ # Benchmarks 🎛️:
+```Test components:
+Sentence to be spammed: "The quick brown fox jumps over the lazy dog."
+Number of repetitions: 5000
+Delay between each message: 0
+```
+CPU usage includes the other tasks as what i am also looking for is the total usage, also i could not find the instance as i had to run it using the IDE and not natively.
+
+
+
+```keystrokes replication:
+Time to complete 5000 sets: 43 seconds
+Average CPU and RAM usage: 76% and 400MiB
+Peak CPU: 91%
+Peak RAM: 692 MiB
+
+Pasting method (no formatting, ctrl v method as middle click is used for something else on chrome OS):
+Time to complete: 37 seconds
+Average CPU and RAM usage: 86% and 538 MiB
+Peak CPU: 100%
+Peak RAM: 736 MiB
+
+Spam by file (content replication by typing):
+Time to complete 5000 sets: 52 seconds
+Average CPU and RAM usage: 100% and 900MiB
+Peak CPU: 100%
+Peak RAM: 1.2GiB 
+```
+
+  Will consider optimising if running the same test on another PC gets results that shows evidence of high usage, but to be fair tho, it is a lousy chromebook so lol! Also I am unable to test this on windows as i do not have a PC that can run win 11 and windows in general is completely not worth my time.
