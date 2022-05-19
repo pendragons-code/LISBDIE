@@ -36,12 +36,10 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 
 # Installation:
   Ubuntu/Debian (updates repos and upgrades at the same time):
-  ``` sudo apt update && sudo apt upgrade -y && sudo apt install scrot
-  ``` 
+  ` sudo apt update && sudo apt upgrade -y && sudo apt install scrot`
       
   Arch linux (syncs with repos, updates system and installs [scrot](https://archlinux.org/packages/community/x86_64/scrot/))
-  ``` sudo pacman -Syuu && sudo pacman -S scrot
-  ```
+  ` sudo pacman -Syuu && sudo pacman -S scrot`
 
 
 
