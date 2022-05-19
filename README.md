@@ -1,11 +1,11 @@
 # LISBDIE 💪:
   A spam tool made in python using different methods for spamming.  
-  To run: `python3 LISBDIEv2.py`  
+  To run: `python3 LISBDIEv3.py`  
  
   
   For power users 👉 👉:  
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv2.py'`
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv3.py'`
 
 # Details 🪶:
   LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You need to manually type the objects out (in terms of code), and in my tests it seems that the clipboard did much better in spamming speed (delay 0). 🦹‍♂️
@@ -29,6 +29,17 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    
    # Disclaimer 🤟:
    This tool is indeed something I created after being bored since my life suddenly became a multi-headed dick hydra that is about to rip my flesh and bones apart 😀. That said, I do not encourage that you create chaos of any form to instill harm within in your social circle. Also if you are curious why the code is so badly written and why it kinda looks like ramen, that's because I was at a coffeeshop near school when I made this and uploaded it here. I was not using an IDE natively on my phone, rather I was using a txt file and then converting it to a python file to make this thing. So yes, it works, but not optimized yet, when I finally have some free time, I may consider optimizing this tool. Do tell me if there are any errors and if you would like me to correct such issues right away if you can. Have a nice day! :P
+
+
+# Installation:
+  Ubuntu/Debian (updates repos and upgrades at the same time):
+  ``` sudo apt update && sudo apt upgrade -y && sudo apt install scrot
+  ``` 
+      
+  Arch linux (syncs with repos, updates system and installs [scrot](https://archlinux.org/packages/community/x86_64/scrot/))
+  ``` sudo pacman -Syuu && sudo pacman -S scrot
+  ```
+
 
 
 # Needed Resources 🧠:
