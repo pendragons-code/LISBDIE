@@ -49,7 +49,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    ```
    echo $0
    ```
-   The expected outpput should be ```bash```. If it is something else, change the defaults to bash (what I recommend), or you will have to specify that you are using bash each time before you use an alias that bash is configured to (Despite that, it should be worth highlighting that many other shells, like zsh quite literally has the same method for adding aliases. I will not be covering anything other than ash since most distros use bash by default and if you use shells like zsh, you are probably a more advanced user, also it is very similar, can't bee too hard.).     
+   The expected output should be ```bash```. If it is something else, change the defaults to bash (what I recommend), or you will have to specify that you are using bash each time before you use an alias that bash is configured to (Despite that, it should be worth highlighting that many other shells, like zsh quite literally has the same method for adding aliases. I will not be covering anything other than ash since most distros use bash by default and if you use shells like zsh, you are probably a more advanced user, also it is very similar, can't bee too hard.).     
         
           
    Go to the home folder! Most things are stored in the home folder (configuration files for DE, WMs, text editors and in this case, the config for your shell!).
