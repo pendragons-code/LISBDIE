@@ -6,6 +6,7 @@
                         
   A spamming tool made in python using different methods for spamming.  
   To run: `python3 LISBDIEv3.py`  
+  Due to numerous request for better documentation, I went ahead to make some big changes to the ReadME
  
   
   For power users 👉 👉:  
