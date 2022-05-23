@@ -1,5 +1,9 @@
 # LISBDIE 💪:
-  NAVBAR: [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) [Bash configuration 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-)
+  **NAVBAR:** [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) [Bash configuration 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-)     
+          
+                  
+                        
+                        
   A spamming tool made in python using different methods for spamming.  
   To run: `python3 LISBDIEv3.py`  
  
