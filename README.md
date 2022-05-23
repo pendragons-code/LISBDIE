@@ -44,8 +44,24 @@ If you have no idea how that should be done, you just need to add an `alias LISB
   ```
   sudo pacman -Syuu && sudo pacman -S scrot
   ```
-
-
+  # Bash Configuration 🕹️:
+   Before we begin, we need to make sure you are using bash! This is because the .bashrc file will only affect the bash terminal.
+   ```
+   echo $0
+   ```
+   The expected outpput should be ```bash```. If it is something else, change the defaults to bash (what I recommend), or you will have to specify that you are using bash each time before you use an alias that bash is configured to (Despite that, it should be worth highlighting that many other shells, like zsh quite literally has the same method for adding aliases. I will not be covering anything other than ash since most distros use bash by default and if you use shells like zsh, you are probably a more advanced user, also it is very similar, can't bee too hard.).     
+        
+          
+   Go to the home folder! Most things are stored in the home folder (configuration files for DE, WMs, text editors and in this case, the config for your shell!).
+    ```cd```
+    
+   Use your preferred text editor to add the following:
+    ```alias LISBDIEV3="python3 **directory here**"```
+    
+   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the foler to ```.LISBDIEV3.py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
+   ```alias LISBDIEV3.py="python3 ~/.LISBDIEV3.py"```
+   
+   
 
 # Needed Resources 🧠:
   [pyautogui](https://pyautogui.readthedocs.io/en/latest/quickstart.html)  
