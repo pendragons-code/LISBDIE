@@ -56,10 +56,14 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     ```cd```
     
    Use your preferred text editor to add the following:
-    ```alias LISBDIEV3="python3 **directory here**"```
+    ```
+    alias LISBDIEV3="python3 **directory here**"
+    ```
     
    I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the foler to ```.LISBDIEV3.py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
-   ```alias LISBDIEV3.py="python3 ~/.LISBDIEV3.py"```
+   ```
+   alias LISBDIEV3.py="python3 ~/.LISBDIEV3.py"
+   ```
    
    
 
