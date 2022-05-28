@@ -1,5 +1,5 @@
 # LISBDIE 💪:
-  **NAVBAR:** [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) | [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) | [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) | [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) | [Bash config 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) | [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-)     
+  **NAVBAR:** [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) | [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) | [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) | [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) | [Bash config 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) | [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-) | [DEMONSTRATION 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#DEMONSTRATION)     
           
                   
                         
@@ -15,6 +15,9 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
  
  I am aware that some people are interested in the benchmarks(😉), so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought. Anyhow the benchmarks are below!😉
+ 
+# DEMONSTRATION 🤷‍:
+[!DEMO](https://raw.githubusercontent.com/pendragons-code/LISBDIE/main/LISBDIE.gif)
 
 # Details 🪶:
   LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You need to manually type the objects out (in terms of code), and in my tests it seems that the clipboard did much better in spamming speed (delay 0). 🦹‍♂️
