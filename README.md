@@ -17,7 +17,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
  I am aware that some people are interested in the benchmarks(😉), so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought. Anyhow the benchmarks are below!😉
  
 # DEMONSTRATION 🤷‍:
-![DEMO]() 
+![DEMO](https://raw.githubusercontent.com/pendragons-code/LISBDIE/main/LISBDIE.gif) 
  
  Video was slowed down for gif conversion so this is not an accurate representation of the speed. Also the screen recording app was taking quite some CPU🤷‍. 
 
