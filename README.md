@@ -93,6 +93,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
  
  
  # Benchmarks 🎛️:
+  BENCHMARKS MAY BE BROKEN, WE WILL REDO THIS SOON! (IT SEEMS THAT NOT ALL OF THE TEST WAS DONE ON THE CHROMEBOOK. THEREFOR WE WILL REMOVE THE RESULTS HERE!)
 ```
 Test components:
 Sentence to be spammed: "The quick brown fox jumps over the lazy dog."
@@ -100,27 +101,4 @@ Number of repetitions: 500
 Delay between each message: 0
 ```
 CPU usage includes the other tasks as what I am also looking for is the total usage, also I could not find the instance/task as I had to run it using the IDE and not natively 😭 (remember this is chromebook and it kinda appears in a weird manner, this shit was also lagging really hard and it makes it really hard to find it. Worse, this replicates keystrokes. So I cannot scroll up and down. Damn these tiny screens. 😭).
-
-
-
-```
-keystrokes replication:
-Time to complete 5000 sets: 43 seconds
-Average CPU and RAM usage: 76% and 400MiB
-Peak CPU: 91%
-Peak RAM: 692 MiB
-
-Pasting method (no formatting, ctrl v method as middle click is used for something else on chrome OS):
-Time to complete: 37 seconds
-Average CPU and RAM usage: 86% and 538 MiB
-Peak CPU: 100%
-Peak RAM: 736 MiB
-
-Spam by file (content replication by typing):
-Time to complete 5000 sets: 52 seconds
-Average CPU and RAM usage: 100% and 900MiB
-Peak CPU: 100%
-Peak RAM: 1.2GiB 
-```
-
   Will consider optimising if running the same test on another PC gets results that shows evidence of high usage, but to be fair tho, it is a lousy chromebook so lol! Also I am unable to test this on windows as i do not have a PC that can run win 11 and windows in general is completely not worth my time. 🤙
