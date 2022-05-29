@@ -26,13 +26,9 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
    LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl v` and entering it repeatedly after. 💼    
       
-   LISBDIE version 3 makes use of the ability to type out words from a file. However, you may ask why is a clipboard version not made for this?     
-   The reason is that you can just copy the contents of the file and it would be easier??? (and yes, version 3 inherits the features of the previous versions!)
-   
-   Update: as of 5th may 2022,I found time at 00:27 to add v1's features into v2. Hooray! 🤟    
+   LISBDIE version 3 makes use of the ability to type out words from a file. However, you may ask why is a clipboard version not made for this? The reason is that you can just copy the contents of the file and it would be easier??? (and yes, version 3 inherits the features of the previous versions!)
    
    Branches: The linux (```main```) branch will soon include an automated script to install all the needed dependencies. 🤟   
-      
    Next feature: I will add a feature where it will spam the contents of a txt file with configurations as well. 🏹
   
   
