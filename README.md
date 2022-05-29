@@ -96,7 +96,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 ```
 Test components:
 Sentence to be spammed: "The quick brown fox jumps over the lazy dog."
-Number of repetitions: 5000
+Number of repetitions: 500
 Delay between each message: 0
 ```
 CPU usage includes the other tasks as what I am also looking for is the total usage, also I could not find the instance/task as I had to run it using the IDE and not natively 😭 (remember this is chromebook and it kinda appears in a weird manner, this shit was also lagging really hard and it makes it really hard to find it. Worse, this replicates keystrokes. So I cannot scroll up and down. Damn these tiny screens. 😭).
