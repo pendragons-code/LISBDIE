@@ -8,10 +8,12 @@
   To run: `python3 LISBDIEv4.py`  
   Due to numerous request for better documentation, I went ahead to make some big changes to the ReadME
  
+  As you can see the version 4 is in it's own branch and not in the main as i would also like to work on optimizing the ramen code!
+ 
   
   For power users 👉 👉:  
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv3.py'`     
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv4.py'`     
     
  
  I am aware that some people are interested in the benchmarks(😉), so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought. Anyhow the benchmarks are below!😉
