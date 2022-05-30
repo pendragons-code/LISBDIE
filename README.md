@@ -5,7 +5,7 @@
                         
                         
   A spamming tool made in python using different methods for spamming.  
-  To run: `python3 LISBDIEv3.py`  
+  To run: `python3 LISBDIEv4.py`  
   Due to numerous request for better documentation, I went ahead to make some big changes to the ReadME
  
   
@@ -27,6 +27,9 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl v` and entering it repeatedly after. 💼    
       
    LISBDIE version 3 makes use of the ability to type out words from a file. However, you may ask why is a clipboard version not made for this? The reason is that you can just copy the contents of the file and it would be easier??? (and yes, version 3 inherits the features of the previous versions!)
+   
+   LISBDIE version 4 is made to get around common anit-spam/rate-limiting technology that exists. One such technology that exist is delay checking. This means that the limiter checks the delay between each message. If the delay is consistent, it is most likely a bot since it is constantly 5 seconds (`let's say!`). However, the new feature, standard deviation is randomly added or decreased to counter this system. This version of the tool inherits the features of the previous versions. 
+   
    
    Branches: The linux (```main```) branch will soon include an automated script to install all the needed dependencies. 🤟   
    Next feature: I will add a feature where it will spam the contents of a txt file with configurations as well. 🏹
@@ -69,7 +72,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
    I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the foler to ```.LISBDIEV3.py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
    ```
-   alias LISBDIEV3.py="python3 ~/.LISBDIEV3.py"
+   alias LISBDIEV3.py="python3 ~/.LISBDIEV4.py"
    ```
    
    
