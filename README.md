@@ -32,7 +32,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    
    
    Branches: The linux (```main```) branch will soon include an automated script to install all the needed dependencies. 🤟   
-   Next feature: I will add a feature where it will spam the contents of a txt file with configurations as well. 🏹
+   Next feature: JSON configuration! If there is a better library that you wanna share, pls do!🏹
   
   
   # Attacking Methods! 🔫
