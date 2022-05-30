@@ -12,10 +12,12 @@
  
   
   **For power users 👉 👉:** 
+  
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
 If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv4.py'`     
     
- **Benchmarks and requests:** 
+ **Benchmarks and requests:**  
+ 
  I am aware that some people are interested in the benchmarks(😉), so I decided to use a PC that was immediately available to me (I was in school and I know someone who broke his chromebook and the control and restrictions system that my school uses has not yet been installed and the teachers has not realized yet, so thanks to him.), turns out the thing kinda did worse than I thought. Anyhow the benchmarks are below!😉
  
 # DEMONSTRATION 🤷‍:
@@ -24,13 +26,23 @@ If you have no idea how that should be done, you just need to add an `alias LISB
  Video was slowed down for gif conversion so this is not an accurate representation of the speed. Also the screen recording app was taking quite some CPU🤷‍. 
 
 # Details 🪶:
-**v1**
-  LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You need to manually type the objects out (in terms of code), and in my tests it seems that the clipboard did much better in spamming speed (delay 0). 🦹‍♂️
-**v2**    
-   LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl v` and entering it repeatedly after. 💼    
-**v3**
-   LISBDIE version 3 makes use of the ability to type out words from a file. However, you may ask why is a clipboard version not made for this? The reason is that you can just copy the contents of the file and it would be easier??? (and yes, version 3 inherits the features of the previous versions!)
-**V4**
+**v1**  
+
+  LISBDIE version 1 consists of 1 spamming method, the replication of the keystrokes and entering it after every message being sent. However, there are some issues with this. You need to manually type the objects out (in terms of code), and in my tests it seems that the clipboard did much better in spamming speed (delay 0). 🦹‍♂️ 
+   
+   
+**v2**     
+
+   LISBDIE version 2 revolves around using other methods such as spamming from the clipboard `ctrl v` and entering it repeatedly after. 💼     
+    
+     
+**v3** 
+
+   LISBDIE version 3 makes use of the ability to type out words from a file. However, you may ask why is a clipboard version not made for this? The reason is that you can just copy the contents of the file and it would be easier??? (and yes, version 3 inherits the features of the previous versions!) 
+    
+     
+**V4**  
+
    LISBDIE version 4 is made to get around common anit-spam/rate-limiting technology that exists. One such technology that exist is delay checking. This means that the limiter checks the delay between each message. If the delay is consistent, it is most likely a bot since it is constantly 5 seconds (`let's say!`). However, the new feature, standard deviation is randomly added or decreased to counter this system. This version of the tool inherits the features of the previous versions. 
    
  **Plans**
