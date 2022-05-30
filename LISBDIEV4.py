@@ -52,10 +52,10 @@ if metter == 1:
             Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
-            time.sleep(Deviator)
-            pyautogui.hotkey('ctrl', 'v')
-            pyautogui.typewrite('\n')
-            print(Deviator)
+        time.sleep(Deviator)
+        pyautogui.hotkey('ctrl', 'v')
+        pyautogui.typewrite('\n')
+        print(Deviator)
 
 if metter == 2:
     for i in range(0, int(n)):
@@ -63,10 +63,10 @@ if metter == 2:
             Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
-            time.sleep(Deviator)
-            pyautogui.hotkey('ctrl', 'shift', 'v')
-            pyautogui.typewrite('\n')
-            print(Deviator)
+        time.sleep(Deviator)
+        pyautogui.hotkey('ctrl', 'shift', 'v')
+        pyautogui.typewrite('\n')
+        print(Deviator)
 
 if metter == 3:
     for i in range(0, int(n)):
@@ -74,10 +74,10 @@ if metter == 3:
             Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
-            time.sleep(Deviator)
-            pyautogui.click(button='middle')
-            pyautogui.typewrite('\n')
-            print(Deviator)
+        time.sleep(Deviator)
+        pyautogui.click(button='middle')
+        pyautogui.typewrite('\n')
+        print(Deviator)
 
 if metter == 4:
     for i in range(0, int(n)):
@@ -85,10 +85,10 @@ if metter == 4:
             Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
-            time.sleep(Deviator)
-            pyautogui.typewrite(msg)
-            print(Deviator)
-            pyautogui.typewrite('\n')
+        time.sleep(Deviator)
+        pyautogui.typewrite(msg)
+        print(Deviator)
+        pyautogui.typewrite('\n')
 if metter == 5:
     for i in range(0, int(n)):
         f = open(source,'r')
@@ -97,7 +97,7 @@ if metter == 5:
                 Deviator = 0
             if STDE > 0:
                 Deviator = random.randint(delay - STDE, delay + STDE)
-                print(Deviator)
-                time.sleep(Deviator)
-                pyautogui.typewrite(word)
-                pyautogui.typewrite("\n")
+            print(Deviator)
+            time.sleep(Deviator)
+            pyautogui.typewrite(word)
+            pyautogui.typewrite("\n")
