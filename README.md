@@ -120,6 +120,9 @@ Chromebooks model is still the same.
 Time taken by typewrite method: 1 min 04s
 Time taken by copy paste method: 58s
 Time taken by txt file parsing method: 2 min
+
+
+Test output (spam) was in a docx file since using whatsapp and all that can be affected by internet speeds and rate limiting. This factor and some typos cause a huge inaccuracy in out data collection and I apologize.
 ```
 CPU usage includes the other tasks as what I am also looking for is the total usage, also I could not find the instance/task as I had to run it using the IDE and not natively 😭 (remember this is chromebook and it kinda appears in a weird manner, this shit was also lagging really hard and it makes it really hard to find it. Worse, this replicates keystrokes. So I cannot scroll up and down. Damn these tiny screens. 😭).
   Will consider optimising if running the same test on another PC gets results that shows evidence of high usage, but to be fair tho, it is a lousy chromebook so lol! Also I am unable to test this on windows as i do not have a PC that can run win 11 and windows in general is completely not worth my time. 🤙
