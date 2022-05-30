@@ -40,8 +40,11 @@ If you have no idea how that should be done, you just need to add an `alias LISB
      
 **V4:**  
    LISBDIE version 4 is made to get around common anit-spam/rate-limiting technology that exists. One such technology that exist is delay checking. This means that the limiter checks the delay between each message. If the delay is consistent, it is most likely a bot since it is constantly 5 seconds (`let's say!`). However, the new feature, standard deviation is randomly added or decreased to counter this system. This version of the tool inherits the features of the previous versions. 
-   
- **Plans**
+    
+     
+      
+      
+ **Plans:** 
    Branches: The linux (```main```) branch will soon include an automated script to install all the needed dependencies. 🤟   
    Next feature: JSON configuration! If there is a better library that you wanna share, pls do!🏹
   
