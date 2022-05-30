@@ -48,6 +48,8 @@ print("""
 """)
 if metter == 1:
     for i in range(0, int(n)):
+        if STDE == 0:
+            Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
             time.sleep(Deviator)
@@ -57,6 +59,8 @@ if metter == 1:
 
 if metter == 2:
     for i in range(0, int(n)):
+        if STDE == 0:
+            Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
             time.sleep(Deviator)
@@ -66,6 +70,8 @@ if metter == 2:
 
 if metter == 3:
     for i in range(0, int(n)):
+        if STDE == 0:
+            Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
             time.sleep(Deviator)
@@ -75,6 +81,8 @@ if metter == 3:
 
 if metter == 4:
     for i in range(0, int(n)):
+        if STDE == 0:
+            Deviator = 0
         if STDE > 0:
             Deviator = random.randint(delay - STDE, delay + STDE)
             time.sleep(Deviator)
@@ -85,6 +93,8 @@ if metter == 5:
     for i in range(0, int(n)):
         f = open(source,'r')
         for word in f:
+            if STDE == 0:
+                Deviator = 0
             if STDE > 0:
                 Deviator = random.randint(delay - STDE, delay + STDE)
                 print(Deviator)
