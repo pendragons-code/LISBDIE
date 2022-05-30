@@ -93,11 +93,16 @@ if metter == 5:
     for i in range(0, int(n)):
         f = open(source,'r')
         for word in f:
-            if STDE == 0:
-                Deviator = 0
-            if STDE > 0:
-                Deviator = random.randint(delay - STDE, delay + STDE)
-            print(Deviator)
-            time.sleep(Deviator)
-            pyautogui.typewrite(word)
-            pyautogui.typewrite("\n")
+            try:
+                if STDE == 0:
+                    Deviator = 0
+                if STDE > 0:
+                    Deviator = random.randint(delay - STDE, delay + STDE)
+                print(Deviator)
+                time.sleep(Deviator)
+                pyautogui.typewrite(word)
+                pyautogui.typewrite("\n")
+            except:
+                print("The directory you provided does not exist")
+                exit()
+
