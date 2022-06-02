@@ -103,6 +103,6 @@ if metter == 5:
                 pyautogui.typewrite(word)
                 pyautogui.typewrite("\n")
             except:
-                print("The directory you provided does not exist")
+                print("The directory you provided does not exist!")
                 exit()
 
