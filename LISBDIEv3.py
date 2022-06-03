@@ -11,7 +11,7 @@ met = input("""
 
 Pls select a method of input: """)
 metter = int(met)
-if metter == 1 or metter == 2 or metter == 3:
+if metter < 4:
     msg = input("Have you copied the item yet? [y/n]")
     if msg != "y" and msg != "n" or msg == "no":
         print("Copy the item and run LISBDIE V2 again!")
@@ -22,7 +22,7 @@ if metter == 5:
     source = input("Directory? (must be a txt file!) :")
 n = input("How many times?: ")
 c = input("Countdown?: ")
-d =input("Delay per message?: ")
+d = input("Delay per message?: ")
 count = int(c)
 delay = int(d)
 if math.isnan(delay) or math.isnan(count) or math.isnan(metter) or delay < 0 or count < 0:
