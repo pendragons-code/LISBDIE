@@ -49,7 +49,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
       
  **Plans:** 
     Branches: The linux (```main```) branch will soon include an automated script to install all the needed dependencies. 🤟   
-    Next feature: JSON configuration! If there is a better library that you wanna share, pls do so! 🏹
+    Next feature: JSON configuration (I delayed this since I initially did not see a use for it. And I was blind. With a config file, it is easy to share the files and use the spammer with the same settings repeatedly)! If there is a better library that you wanna share regarding any part of the code, pls do so! 🏹
   
   
   # Attacking Methods! 🔫
