@@ -12,7 +12,7 @@
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 LISBDIEv4.py'`     
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv4.py'`     
     
  **Benchmarks and requests:**  
  
@@ -60,14 +60,14 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 
 
 # Installation 👾:
-  Ubuntu/Debian (updates repos and upgrades at the same time):
+  Ubuntu/Debian (updates repos and upgrades, installs python-tk and scrot):
   ```
-  sudo apt update && sudo apt upgrade -y && sudo apt install scrot
+  sudo apt update && sudo apt upgrade -y && sudo apt install scrot python-tk
   ```
       
-  Arch linux (syncs with repos, updates system and installs [scrot](https://archlinux.org/packages/community/x86_64/scrot/))
+  Arch linux (syncs with repos, updates system and installs [scrot](https://archlinux.org/packages/community/x86_64/scrot/) + [tk](https://archlinux.org/packages/extra/x86_64/tk/))
   ```
-  sudo pacman -Syuu && sudo pacman -S scrot
+  sudo pacman -Syuu && sudo pacman -S scrot tk
   ```
   # Bash Configuration 🕹️:
    Before we begin, we need to make sure you are using bash! This is because the .bashrc file will only affect the bash terminal.
@@ -82,7 +82,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
    Use your preferred text editor to add the following:
     ```
-    alias LISBDIEV3="python3 **directory here**"
+    alias LISBDIEV4="python3 **directory here**"
     ```
     
    I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the foler to ```.LISBDIEV3.py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
@@ -95,7 +95,8 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 # Needed Resources 🧠:
   [pyautogui](https://pyautogui.readthedocs.io/en/latest/quickstart.html)  
   [python](https://www.python.org/)   
-  [scrot](https://en.wikipedia.org/wiki/Scrot)    
+  [scrot](https://en.wikipedia.org/wiki/Scrot) 
+  [tk](https://docs.python.org/3/library/tk.html)
       
   `It should also be noted I do not own any of the items above.`
   
