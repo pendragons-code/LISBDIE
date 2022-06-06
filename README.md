@@ -8,8 +8,6 @@
   To run: `python3 LISBDIEv4.py`  
   Due to numerous request for better documentation, I went ahead to make some big changes to the ReadME
  
-  As you can see the version 4 is in it's own branch and not in the main as i would also like to work on optimizing the ramen code!
- 
   
   **For power users 👉 👉:** 
   
