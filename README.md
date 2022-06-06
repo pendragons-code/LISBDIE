@@ -8,7 +8,9 @@
   To run: `python3 LISBDIEv4.py`  
   Due to numerous request for better documentation, I went ahead to make some big changes to the ReadME
  
-  
+  ```
+  git clone https://github.com/pendragons-code/LISBDIE
+  ```
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
