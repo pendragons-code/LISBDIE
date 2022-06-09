@@ -55,36 +55,36 @@ print("""
 # Copy Paste method with No Formatting Binds
 def CPNFB():
     for i in range(0, reps):
-        time.sleep(Deviator)
         pyautogui.hotkey('ctrl', 'v')
         pyautogui.typewrite("\n")
+        time.sleep(Deviator)
 # Copy Paste method with Formatting Binds
 def CPFB():
     for i in range(0, reps):
-        time.sleep(Deviator)
         pyautogui.hotkey('ctrl', 'shift', 'v')
         pyautogui.typewrite("\n")
+        time.sleep(Deviator)
 # Copy Paste Middle Click
 def CPMC():
     for i in range(0, reps):
-        time.sleep(Deviator)
         pyautogui.click(button='middle')
         pyautogui.typewrite("\n")
+        time.sleep(Deviator)
 # TypeWrite from command line
 def TW():
     for i in range(0, reps):
-        time.sleep(Deviator)
         pyautogui.typewrite(msg)
         pyautogui.typewrite("\n")
+        time.sleep(Deviator)
 # TypeWrite From File
 def TWFF():
     f = open(source, 'r')
     for word in f:
         try:
             for i in range(0, reps):
-                time.sleep(Deviator)
                 pyautogui.typewrite(word)
                 pyautogui.typewrite("\n")
+                time.sleep(Deviator)
         except:
             print("The directory you stated might not exist or I could not read the file!")
             exit()
