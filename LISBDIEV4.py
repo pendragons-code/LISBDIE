@@ -1,7 +1,4 @@
-import pyautogui
-import time
-import random
-import math
+import pyautogui, time, math ,random
 
 pyautogui.FAILSAFE = False
 met = input("""
