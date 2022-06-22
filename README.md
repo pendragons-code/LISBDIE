@@ -53,7 +53,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    LISBDIE version 5 includes a json parsing method to find your config for your spammer, follow the format given in the `config.json` file!
 
  **Plans:** 
-    Branches: The linux (```main```) branch will soon include an automated script to install all the needed dependencies. 🤟   
+ 	Make the installer multi distro friendly (I can't figure a way to install scrot without root level perms, anyhow, you may not even need to install it.). 
    
    
   # Config:
