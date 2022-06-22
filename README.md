@@ -58,7 +58,8 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    
   # Config:
   Here is an example of the config file!
-  ```{
+  ```
+  {
 	"count": 1,
 	"delay": 0,
 	"SDTE": 0,
