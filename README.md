@@ -5,7 +5,7 @@
                         
                         
   A spamming tool made in python using different methods for spamming.  
-  To run: `python3 LISBDIEv4.py`  
+  To run: `python3 LISBDIEv5.py`  
   Due to numerous request for better documentation, I went ahead to make some big changes to the ReadME
  
   ```
@@ -14,7 +14,7 @@
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv4.py'`     
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv5.py'`     
     
  **Benchmarks and requests:**  
  
@@ -85,12 +85,12 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
    Use your preferred text editor to add the following:
     ```
-    alias LISBDIEV4="python3 **directory here**"
+    alias LISBDIEV5="python3 **directory here**"
     ```
     
-   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the foler to ```.LISBDIEV.py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
+   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEV5.py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
    ```
-   alias BANANA="python3 ~/.LISBDIEV4.py"
+   alias BANANA="python3 ~/.LISBDIEV5.py"
    ```
    
    
