@@ -52,11 +52,6 @@ if jsonConfirm == 2:
     reps = int(n)
 
 
-
-
-
-
-
 print("Note that this spammer is written to only parse Integers, meaning that it does not accept decimals!")
 if math.isnan(STDE) or math.isnan(delay) or math.isnan(count) or math.isnan(metter) or delay < 0 or delay - STDE < 0 or count < 0 or metter > 5 or metter < 1:
     print("Ensure that the numbers/variables you entered are in the valid ranges and are numbers!")
@@ -67,7 +62,6 @@ if metter < 4:
     if msg.lower() != "y" and msg.lower() != "yes":
         print("Run this when command again after you copied the item lmao!")
         exit()
-
 
 if STDE == 0:
     Deviator = 0
