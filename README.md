@@ -66,7 +66,8 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 	"reps": 10,
 	"message": "The quick brown fox jumps over the lazy dog!",
 	"metter": 4
-}```
+}
+```
   
   # Attacking Methods! 🔫:
   So someone asked how they could apply this tool. Here is a method I came up with. Many people who used tools similar to this end up not being able to use their PC since it is running the keystrokes from the program. So to get around this, we can use virtual machines, they can then run the code and sign in, to let's say a discord account. This means you are spamming from the same account from multiple virtual PCs. This is good, but not smart, using multiple accounts on different virtual machines would be a better idea. So yeah! Have fun! I tried doing this on whatsapp and my friends told me that the virtual machine method was really effective, in 5 seconds we were able to pull out 8000 messages on 5 different virtual machines running arch linux, with the xfce DE.  
