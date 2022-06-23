@@ -30,13 +30,13 @@ if jsonConfirm == 1:
 
 if jsonConfirm == 2:
     met = input("""
-    [1]: Copy paste method (no formatting binds).
-    [2]: Copy paste method (with formatting binds).
-    [3]: Copy Paste with Middle click method.
-    [4]: Typewrite method. (command line entry)
-    [5]: Typewrite from txt file.
-    
-    Pls select a method of input!: """)
+[1]: Copy paste method (no formatting binds).
+[2]: Copy paste method (with formatting binds).
+[3]: Copy Paste with Middle click method.
+[4]: Typewrite method. (command line entry)
+[5]: Typewrite from txt file.
+
+Pls select a method of input!: """)
     metter = int(met)
     if metter == 4:
         msg = input("Enter the message!: ")
@@ -50,9 +50,11 @@ if jsonConfirm == 2:
     delay = int(d)
     STDE = int(SD)
     reps = int(n)
+if count < 1:
+        print("Your countdown must not be less than 1!")
+        exit()
 
-
-print("Note that this spammer is written to only parse Integers, meaning that it does not accept decimals!")
+print("""Note that this spammer is written to only parse Integers, meaning that it does not accept decimals!""")
 if math.isnan(STDE) or math.isnan(delay) or math.isnan(count) or math.isnan(metter) or delay < 0 or delay - STDE < 0 or count < 0 or metter > 5 or metter < 1:
     print("Ensure that the numbers/variables you entered are in the valid ranges and are numbers!")
     exit()
