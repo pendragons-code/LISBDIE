@@ -66,7 +66,7 @@ if metter < 4:
         exit()
 
 if STDE == 0:
-    Deviator = 0
+    Deviator = delay
 if STDE > 0:
     Deviator = random.randint(delay - STDE, delay + STDE)
     
