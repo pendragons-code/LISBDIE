@@ -56,7 +56,7 @@ if count < 1:
 
 print("""Note that this spammer is written to only parse Integers, meaning that it does not accept decimals!""")
 if math.isnan(STDE) or math.isnan(delay) or math.isnan(count) or math.isnan(metter) or delay < 0 or delay - STDE < 0 or count < 0 or metter > 5 or metter < 1:
-    print("Ensure that the numbers/variables you entered are in the valid ranges and are numbers!")
+    print("Countdown only parse by ints!")
     exit()
 
 if metter < 4:
