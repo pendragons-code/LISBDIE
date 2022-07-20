@@ -110,9 +110,9 @@ def TW():
 # TypeWrite From File
 def TWFF():
     f = open(source, 'r')
-    for word in f:
+    for i in range(0, reps):
         try:
-            for i in range(0, reps):
+            for word in f:
                 pyautogui.typewrite(word)
                 pyautogui.typewrite("\n")
                 time.sleep(Deviator) 
