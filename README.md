@@ -50,7 +50,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
       
       
 **V5:**   
-   LISBDIE version 5 includes a json parsing method to find your config for your spammer, follow the format given in the `config.json` file! Fixed a bug where deviator (when standard deviation is 0) sets delay to 0 and not the stated delay.
+   LISBDIE version 5 includes a json parsing method to find your config for your spammer, follow the format given in the `config.json` file! Fixed a bug where deviator (when standard deviation is 0) sets delay to 0 and not the stated delay. Also added fixes for file parsing, Initially not following through with the contents of the file and reading only the top item.
    
 
  **Plans:** 
