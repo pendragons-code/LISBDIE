@@ -44,13 +44,13 @@ Pls select a method of input!: """)
         source = input("Directory? (Ensure the file is a txt file for best results!): ")
     reps = int(input("How many times?: "))
     count = int(input("Countdown?: "))
-    delay = int(input("Delay per message?: "))
+    delay = float(input("Delay per message?: "))
     STDE = int(input("Standard Deviation?: "))
 if count < 1:
         print("Your countdown must not be less than 1!")
         exit()
 
-print("""Note that this spammer is written to only parse Integers, meaning that it does not accept decimals!""")
+print("""Note that this spammer is written to only parse Integers, meaning that it does not accept decimals for countdown!""")
 if math.isnan(STDE) or math.isnan(delay) or math.isnan(count) or math.isnan(metter) or delay < 0 or delay - STDE < 0 or count < 0 or metter > 5 or metter < 1:
     print("Countdown only parse by ints!")
     exit()
