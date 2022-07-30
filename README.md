@@ -10,7 +10,10 @@
   ```
   git clone https://github.com/pendragons-code/LISBDIE
   ```
-  To run: `python3 LISBDIEv5.py`
+  To run: 
+  ```
+  python3 LISBDIEv5.py
+  ```
   
   **For power users 👉 👉:** 
   
