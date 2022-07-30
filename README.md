@@ -11,6 +11,8 @@
   ```
   git clone https://github.com/pendragons-code/LISBDIE
   ```
+  
+  
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
