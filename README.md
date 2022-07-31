@@ -5,7 +5,7 @@
   **NAVBAR:** [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) | [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) | [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) | [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) | [Bash config 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) | [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-) | [DEMONSTRATION 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#DEMONSTRATION)  | [💡CONFIGURATION](https://github.com/pendragons-code/LISBDIE#Config) | [🔥Usage](https://github.com/pendragons-code/LISBDIE#Usage) | [🔥Usage](https://github.com/pendragons-code/LISBDIE#News)		
           
 # news:
-  V6 will include features like burst fire and a GUI.
+  V6 will include features like burst fire and some other delay related features.
                
 # Usage:
   clone with this command!: 
