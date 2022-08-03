@@ -20,7 +20,7 @@
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv6py'`     
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv6.py'`     
     
  **Benchmarks and requests:**  
  
