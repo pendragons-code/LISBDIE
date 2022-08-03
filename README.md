@@ -5,7 +5,7 @@
   **NAVBAR:** [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) | [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) | [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) | [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) | [Bash config 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) | [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-) | [DEMONSTRATION 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#DEMONSTRATION)  | [💡CONFIGURATION](https://github.com/pendragons-code/LISBDIE#Config) | [🔥Usage](https://github.com/pendragons-code/LISBDIE#Usage) | [🔥Usage](https://github.com/pendragons-code/LISBDIE#News)		
           
 # news:
-  V6 will include features like burst fire and some other delay related features.
+  LISBDIE WILL RETURN!!!
                
 # Usage:
   clone with this command!: 
@@ -14,13 +14,13 @@
   ```
   To run: 
   ```
-  python3 LISBDIEv5.py
+  python3 LISBDIEv6.py
   ```
   
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv5.py'`     
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv6py'`     
     
  **Benchmarks and requests:**  
  
@@ -73,7 +73,8 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 	"source": "",
 	"reps": 10,
 	"message": "The quick brown fox jumps over the lazy dog!",
-	"metter": 4
+	"metter": 4,
+	"burst": 3
 }
 ```
   
@@ -112,9 +113,9 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     alias LISBDIEV5="python3 **directory here**"
     ```
     
-   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEV5.py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
+   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEV3py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
    ```
-   alias BANANA="python3 ~/.LISBDIEV5.py"
+   alias BANANA="python3 ~/.LISBDIEV3py"
    ```
    
    
