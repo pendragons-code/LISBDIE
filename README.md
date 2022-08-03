@@ -5,8 +5,11 @@
   **NAVBAR:** [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) | [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) | [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) | [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) | [Bash config 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) | [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-) | [DEMONSTRATION 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#DEMONSTRATION)  | [💡CONFIGURATION](https://github.com/pendragons-code/LISBDIE#Config) | [🔥Usage](https://github.com/pendragons-code/LISBDIE#Usage) | [🔥Usage](https://github.com/pendragons-code/LISBDIE#News)		
           
 # news:
+
   LISBDIE WILL RETURN!!!				
+  
   v7 Will aim at making the interface better and easier to use (potentially with a GUI).				
+  
   I may consider playing with conditional spamming: (the message that is being spammed can be changed mid-execution by pressing a key.)				
                
 # Usage:
