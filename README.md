@@ -11,6 +11,7 @@
   v7 Will aim at making the interface better and easier to use (potentially with a GUI).				
   
   I may consider playing with conditional spamming: (the message that is being spammed can be changed mid-execution by pressing a key.)				
+  May potentially include mapped actions: e.g. (pressing s to start the execution, pressing c to change the output to the next message)
                
 # Usage:
   clone with this command!: 
