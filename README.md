@@ -6,8 +6,8 @@
           
 # news:
   LISBDIE WILL RETURN!!!
-  v7 Will aim at making the interface better and easier to use (potentially with a GUI).
-  I may consider playing with conditional spamming: (the message that is being spammed can be changed mid-execution by pressing a key.)
+  v7 Will aim at making the interface better and easier to use (potentially with a GUI).		
+  I may consider playing with conditional spamming: (the message that is being spammed can be changed mid-execution by pressing a key.)		
                
 # Usage:
   clone with this command!: 
