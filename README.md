@@ -121,10 +121,10 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
    Use your preferred text editor to add the following:
     ```
-    alias LISBDIEV5="python3 **directory here**"
+    alias LISBDIEv6="python3 **directory here**"
     ```
     
-   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEV3py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
+   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEv6py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
    ```
    alias BANANA="python3 ~/.LISBDIEv6.py"
    ```
