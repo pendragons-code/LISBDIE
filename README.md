@@ -8,7 +8,7 @@
 
   LISBDIE WILL RETURN!!!				
   
-	  [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/687)			
+  [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/687)			
   			
   v7 Will aim at making the interface better and easier to use (potentially with a GUI).							
   			
