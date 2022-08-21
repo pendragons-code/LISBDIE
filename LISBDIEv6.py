@@ -87,6 +87,11 @@ if STDE == 0:
 if STDE > 0:
     Deviator = random.randint(delay - STDE, delay + STDE)
     
+        
+readycheck = input("Ready to execute? [y/n]: ")
+if readycheck != "y" or readycheck != "yes":
+        print("Exiting!")
+        exit()
 while(count != 0):
     print(count)
     time.sleep(1)
