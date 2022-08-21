@@ -89,7 +89,7 @@ if STDE > 0:
     
         
 readycheck = input("Ready to execute? [y/n]: ")
-if readycheck != "y" or readycheck != "yes":
+if readycheck != "y" and readycheck != "yes":
         print("Exiting!")
         exit()
 while(count != 0):
