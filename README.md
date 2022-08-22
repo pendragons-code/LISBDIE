@@ -8,7 +8,9 @@
 
   LISBDIE WILL RETURN!!!				
   
-  [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/687) encountering keybind/hotkey issues, learn more here.			
+  [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/687) encountering keybind/hotkey issues, learn more here.
+  
+  [Wayland users](https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#:~:text=Wayland%20Security%20Module%20is%20a,work%20across%20different%20Wayland%20compositors.) will not be able to use it!
   			
   v7 Will aim at making the interface better and easier to use (potentially with a GUI).							
   			
