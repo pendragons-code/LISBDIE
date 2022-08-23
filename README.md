@@ -6,7 +6,7 @@
           
 # News:
 
-  LISBDIE WILL RETURN!!!				
+  Better V6 includes changes made in v5 that were accidentally reversed and now includes better variable checking. (specifically count and reps cannot be less than 1.) It also now includes an execution confirmation system.			
   
   [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/687) encountering keybind/hotkey issues, learn more here.
   
