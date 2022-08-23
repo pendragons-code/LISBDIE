@@ -70,10 +70,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    
 **V6:**   
    LISBDIE version 6 includes a new burst fire system that allows you to paste items, typewrite with and without a source file. The burst fire system came to mind when I was playing [squad](https://www.offworldindustries.com/game/squad/) and I found the burst fire more easy to handle than the full auto after not playing for a long time (Don't hate on the bursties they are good, in fact I recommend them to beginners.). So for some reason, it popped into my mind that, burst fire weapons are made in order to maintain consistent volumes of fire while saving ammo and preventing an inconsistent amount to be consumed each cycle. Which when put to platforms like discord, allows you to burst fire a string, still maintaining spammed items, you are more likely to escape rate limit.		
-   `It should be noted that when you set the delay with a burst, this delay is used to determine the wait time between each cycle.`		
-
- **Plans:** 
- 	Make the installer multi distro friendly (I can't figure a way to install scrot without root level perms, anyhow, you may not even need to install it.). 
+   `It should be noted that when you set the delay with a burst, this delay is used to determine the wait time between each cycle.`
    
    
   # Config:
