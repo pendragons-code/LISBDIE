@@ -12,6 +12,10 @@
   
   [Wayland users](https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#:~:text=Wayland%20Security%20Module%20is%20a,work%20across%20different%20Wayland%20compositors.) will not be able to use it!
   			
+			
+  v8 Will aim at including arrays and manipulation of such features. This, however, will not be available for options that include copy and pasting.
+			
+			
   v7 Will aim at making the interface better and easier to use (potentially with a GUI) + timed based spamming, specify how long you wanna spam or how man hours you wanna spam. (essentially including a function that checks the time from a `e.g: 1 hour from now`, and exits when the time is up)		
                
 # Usage:
