@@ -12,10 +12,7 @@
   
   [Wayland users](https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#:~:text=Wayland%20Security%20Module%20is%20a,work%20across%20different%20Wayland%20compositors.) will not be able to use it!
   			
-  v7 Will aim at making the interface better and easier to use (potentially with a GUI) + timed based spamming, specify how long you wanna spam or how man hours you wanna spam. (essentially icluding a function that checks the time from a `e.g: 1 hour from now`, and exits when the time is up)							
-  			
-  I may consider playing with conditional spamming: (the message that is being spammed can be changed mid-execution by pressing a key.)						
-  May potentially include mapped actions: e.g. (pressing s to start the execution, pressing c to change the output to the next message, there are some issues with the output being affected by swapping.)			
+  v7 Will aim at making the interface better and easier to use (potentially with a GUI) + timed based spamming, specify how long you wanna spam or how man hours you wanna spam. (essentially including a function that checks the time from a `e.g: 1 hour from now`, and exits when the time is up)		
                
 # Usage:
   clone with this command!: 
