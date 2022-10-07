@@ -127,9 +127,13 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEv6py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
    ```
    alias BANANA="python3 ~/.LISBDIEv6.py"
+   ```			
+   			
+   To get it to work in bin:
+   copy the non py version of the file and give it execute permission and transfer it to `/usr/bin`
    ```
-   
-   
+   chmod +x myecho.py
+   ```
 
 # Needed Resources 🧠:
   [pyautogui](https://pyautogui.readthedocs.io/en/latest/quickstart.html)  
