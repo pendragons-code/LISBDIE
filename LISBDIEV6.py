@@ -78,7 +78,7 @@ if metter < 4 or metter >= 8:
         exit()
 if metter > 5:
     burst = int(input("How many messages should be sent per burst?: "))
-    if metter == 5:
+    if metter == 6:
         msg = input("Enter the message!: ")
 
     if metter == 7:
