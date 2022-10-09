@@ -5,9 +5,7 @@
   **NAVBAR:** [Details 🪶](https://github.com/pendragons-code/LISBDIE#details-) | [Attacking Methods 🔫](https://github.com/pendragons-code/LISBDIE#attacking-methods-) | [Disclaimer 🤟](https://github.com/pendragons-code/LISBDIE#disclaimer-) | [Installation 👾](https://github.com/pendragons-code/LISBDIE#installation-) | [Bash config 🕹️](https://github.com/pendragons-code/LISBDIE#bash-configuration-%EF%B8%8F) | [Resources 🧠](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Benchmarks 🎛️](https://github.com/pendragons-code/LISBDIE#needed-resources-) | [Socials 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#brazen-and-shameless-ads-) | [DEMONSTRATION 🤷‍♂‍](https://github.com/pendragons-code/LISBDIE#DEMONSTRATION)  | [💡CONFIGURATION](https://github.com/pendragons-code/LISBDIE#Config) | [🔥NEWS](https://github.com/pendragons-code/LISBDIE#Usage) | [🔥Usage](https://github.com/pendragons-code/LISBDIE#News)		
           
 # News:
-
-  Better V6 includes changes made in v5 that were accidentally reversed and now includes better variable checking. (specifically count and reps cannot be less than 1.) It also now includes an execution confirmation system.			
-  
+LEMME NEATEN THIS FIRST LMAO  
   [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/687) encountering keybind/hotkey issues, learn more here.
   
   [Wayland users](https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#:~:text=Wayland%20Security%20Module%20is%20a,work%20across%20different%20Wayland%20compositors.) will not be able to use it!
