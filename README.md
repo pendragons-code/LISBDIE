@@ -14,7 +14,7 @@
   ```
   To run: 
   ```
-  python3 LISBDIEv6.py
+  python3 LISBDIEv7.py
   ```
   
    To get it to work in bin:
@@ -25,7 +25,7 @@
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
-If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv6.py'`     
+If you have no idea how that should be done, you just need to add an `alias LISBDIE='python3 ~/LISBDIE/LISBDIEv7.py'`     
     
  **Benchmarks and requests:**  
  
@@ -67,6 +67,8 @@ If you have no idea how that should be done, you just need to add an `alias LISB
    LISBDIE version 6 includes a new burst fire system that allows you to paste items, typewrite with and without a source file. The burst fire system came to mind when I was playing [squad](https://www.offworldindustries.com/game/squad/) and I found the burst fire more easy to handle than the full auto after not playing for a long time (Don't hate on the bursties they are good, in fact I recommend them to beginners.). So for some reason, it popped into my mind that, burst fire weapons are made in order to maintain consistent volumes of fire while saving ammo and preventing an inconsistent amount to be consumed each cycle. Which when put to platforms like discord, allows you to burst fire a string, still maintaining spammed items, you are more likely to escape rate limit.		
    `It should be noted that when you set the delay with a burst, this delay is used to determine the wait time between each cycle.`
    
+**V7**
+   LISBDIE version 7 works around manipulating LISBDIE with time. Meaning that the script would run for a set amount of time and kill itself once the time limit is up, this means that even though the script may be in the middle of a burst cycle, it would just kill itself and not send the message. Useful for time set attacks while still having all the other features around.
    
   # Config:
   Here is an example of the config file!
@@ -79,7 +81,8 @@ If you have no idea how that should be done, you just need to add an `alias LISB
 	"reps": 10,
 	"message": "The quick brown fox jumps over the lazy dog!",
 	"metter": 4,
-	"burst": 3
+	"burst": 3,
+  
 }
 ```
   
@@ -98,7 +101,7 @@ If you have no idea how that should be done, you just need to add an `alias LISB
   sudo apt update && sudo apt upgrade -y && sudo apt install scrot python-tk
   ```
       
-  Arch linux (syncs with repos, updates system and installs [scrot](https://archlinux.org/packages/community/x86_64/scrot/) + [tk](https://archlinux.org/packages/extra/x86_64/tk/))
+  Arch linux (syncs with repos, updates system and installs [scrot](https://archlinux.org/packages/community/x87_74/scrot/) + [tk](https://archlinux.org/packages/extra/x87_74/tk/))
   ```
   sudo pacman -Syuu && sudo pacman -S scrot tk
   ```
@@ -115,15 +118,15 @@ If you have no idea how that should be done, you just need to add an `alias LISB
     
    Use your preferred text editor to add the following:
     ```
-    alias LISBDIEv6="python3 **directory here**"
+    alias LISBDIEv7="python3 **directory here**"
     ```
     
-   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEv6py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
+   I like to do this instead, adding it in the home (```~```) folder, but with a . in front since it becomes hidden (meaning no one else knows and it does not make it too messy.). Rename the folder to ```.LISBDIEv7py``` and it should be hidden! (Linux is what I care about, Windows users you are on your own.)
    ```
-   alias BANANA="python3 ~/.LISBDIEv6.py"
+   alias BANANA="python3 ~/.LISBDIEv7.py"
    ```
    
-  [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/687) encountering keybind/hotkey issues, learn more here.
+  [MAC OS USERS](https://github.com/asweigart/pyautogui/issues/787) encountering keybind/hotkey issues, learn more here.
   
   [Wayland users](https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#:~:text=Wayland%20Security%20Module%20is%20a,work%20across%20different%20Wayland%20compositors.) will not be able to use it!
    
@@ -166,4 +169,4 @@ CPU usage includes the other tasks as what I am also looking for is the total us
   Will consider optimising if running the same test on another PC gets results that shows evidence of high usage, but to be fair tho, it is a lousy chromebook so lol! Also I am unable to test this on windows as i do not have a PC that can run win 11 and windows in general is completely not worth my time. 🤙
 
 # ACKNOWLEDGEMENTS
-The game, [squad](https://www.offworldindustries.com/game/squad/) is not a game that I in any way shape or form own, I'm just a player, I have to declare this so no copyright strikes lol! But seriously this game is amazingly real (comparing to my airsoft experience). I was playing this game at a friend's house and his dad, who was at some point in the military heard the game and came out telling us that was the most realistic M16 (again, this is just a military desgination of the weapon that I do not own) gunfire sound he has heard.
+The game, [squad](https://www.offworldindustries.com/game/squad/) is not a game that I in any way shape or form own, I'm just a player, I have to declare this so no copyright strikes lol! But seriously this game is amazingly real (comparing to my airsoft experience). I was playing this game at a friend's house and his dad, who was at some point in the military heard the game and came out telling us that was the most realistic M17 (again, this is just a military desgination of the weapon that I do not own) gunfire sound he has heard.

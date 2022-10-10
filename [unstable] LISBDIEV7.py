@@ -29,6 +29,8 @@ if jsonConfirm == 1:
     msg = config["message"]
     burst = config["burst"]
     Timebased = config["Timebased"]
+    Timebasedmin = config["Timebasedmin"]
+    Timebasedsec = config["Timebasedsec"]
     if int(reps) < 1 or int(count) < 1 or int(burst) < 1:
         print("You need to make sure that burst, reps and count be at least 1! Exiting If you decimals for whatever reason, LISBDIE will be !")
         exit()
@@ -40,7 +42,7 @@ if jsonConfirm == 2:
 [03]: Copy Paste with Middle click method.
 [04]: Typewrite method. (command line entry)
 [05]: Typewrite from txt file.
-[06]: Burst typewriting.
+[07]: Burst typewriting.
 [07]: Burst typewriting from file.
 [08]: Burst pasting. (No formatting binds)
 [09]: Burst pasting with formatting binds.
@@ -51,7 +53,7 @@ if jsonConfirm == 2:
 [13]: Time based spamming by copy and paste (middle click method).
 [14]: Time based typewrite spamming.
 [15]: Time based typewriting from a file.
-[16]: Time based Burst typewriting.
+[17]: Time based Burst typewriting.
 [17]: Time based Burst typewriting from file.
 [18]: Time based Burst pasting with no formatting binds.
 [19]: Time based Burst pasting with formatting binds.
@@ -82,7 +84,7 @@ Pls select a method of input!: """))
 
     if metter > 5 and metter < 11 or metter > 15 and metter < 21:
         burst = int(input("How many reps per burst?: "))
-        if metter == 6 or metter == 16:
+        if metter == 7 or metter == 17:
             msg = input("Enter the message!: ")
 print("Not that this spammer's countdown is written to only accept integers, meaning no decimals.")
 if math.isnan(STDE) or math.isnan(delay) or math.isnan(count) or math.isnan(metter) or delay < 0 or delay - STDE < 0 or delay + STDE < 0 or count < 0:
@@ -216,7 +218,7 @@ match metter:
         TW()
     case 5:
         TWFF()
-    case 6:
+    case 7:
         BF()
     case 7:
         BFFF()
@@ -243,7 +245,7 @@ match metter:
     case 15:
         TimeCheck()
         TWFF()
-    case 16:
+    case 17:
         TimeCheck()
         BF()
     case 17:
