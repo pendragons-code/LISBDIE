@@ -6,5 +6,8 @@
 	"reps": 10,
 	"message": "The quick brown fox jumps over the lazy dog!",
 	"metter": 4,
-	"burst": 3
+	"burst": 3,
+	"Timebased": 0,
+	"Timebasedmin": 0,
+	"Timebasedsec": 0
 }
