@@ -17,6 +17,11 @@
   python3 LISBDIEv6.py
   ```
   
+   To get it to work in bin:
+   copy the non py version of the file and give it execute permission and transfer it to `/usr/bin`
+   ```
+   chmod +x myecho.py
+   ```
   **For power users 👉 👉:** 
   
   Consider editing your aliases in your `.bashrc` and it will run the script when run the alias.  
