@@ -7,6 +7,10 @@
 # News:
   v8 Will aim at including arrays and manipulation of such features. This, however, will not be available for options that include copy and pasting.	
                
+	       
+# bad code:
+	So while this repo and project is basically a joke and I never took this seriously, this is still a project that I personally think I should take seriously. So therefor I will be making a bigger effort to eliminate code that is just really dumb and try to write better code here.
+	       
 # Usage:
   clone with this command!: 
   ```
