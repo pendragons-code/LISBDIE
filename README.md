@@ -24,7 +24,7 @@
    To get it to work in bin:
    copy the non py version of the file and give it execute permission and transfer it to `/usr/bin`
    ```
-   chmod +x myecho.py
+   chmod +x LISBDIEV7
    ```
   **For power users 👉 👉:** 
   
