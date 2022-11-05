@@ -256,7 +256,7 @@ match metter:
         BFCP()
     case 19:
         TimeCheck()
-        BFCP()
+        BFCPF()
     case 20:
         TimeCheck()
         BFCPM()
