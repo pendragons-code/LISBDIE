@@ -6,6 +6,8 @@
           
 # News:
   v8 Will aim at including arrays and manipulation of such features. This, however, will not be available for options that include copy and pasting.	
+  
+  There will be a seperate repo for GUI variants of LISBDIE!
                
 	       
 # bad code:
