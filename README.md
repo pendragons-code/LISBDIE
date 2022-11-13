@@ -8,6 +8,8 @@
   v8 Will aim at including arrays and manipulation of such features. This, however, will not be available for options that include copy and pasting.	
   
   There will be a seperate repo for GUI variants of LISBDIE!
+  
+  SOME IDIOT WENT ON TO USE THIS ON THE DISCORD BOT, [DANK MEMER](https://dankmemer.lol/). SHOULD YOU GET BANNED FOR MAKING A STUPID DECISION AS SUCH, DON'T BLAME ME! FURTHERMORE, THIS GUY DID NOT USE STANDARD DEVIATION. SO THIS DUMBASS REALLY LOOKED LIKE A BOT (Yes, I implemented this feature for another reason, which can be exploited here, which I am telling you DON'T DICK AROUND WITH IT. IT IS NOT MY FAULT IF YOU GET BANNED AND I ADVICE YOU AGAINST USING IT FOR THIS PURPOSE!!!!!!).
                
 	       
 # bad code:
